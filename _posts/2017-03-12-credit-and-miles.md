@@ -7,7 +7,7 @@ subtitle: How to build credit and fly for free
 
 
 <audio controls>
-  <source src="../EpisodeAudio/Episode2MilesAndCredit.mp3" type="audio/mpeg">
+  <source src="http://traffic.libsyn.com/fightthecube/Episode2MilesAndCredit_.mp3" type="audio/mpeg">
 </audio>
 
 ### Miles, miles, miles

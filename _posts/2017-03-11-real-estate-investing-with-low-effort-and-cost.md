@@ -7,7 +7,7 @@ subtitle: Noah spills the beans on the newfangled real estate platform Roofstock
 
 
 <audio controls>
-  <source src="../EpisodeAudio/For_My_Sins_Full_Track.mp3" type="audio/mpeg">
+  <source src="http://traffic.libsyn.com/fightthecube/Episode1RealEstate_withLowCostAnd_Effort.mp3" type="audio/mpeg">
 </audio>
 
 ### Noah Introduces Roofstock
