@@ -28,6 +28,7 @@ a {
 a:hover,
 a:focus {
   color: #0085a1;
+/*  color: #ea353e;*/
 }
 blockquote {
   color: #808080;
@@ -120,6 +121,7 @@ img {
 .navbar-custom .nav li a:hover,
 .navbar-custom .nav li a:focus {
   color: #0085a1;
+  color: #ea353e;
 }
 
 .navbar-custom .navbar-brand-logo {
@@ -326,6 +328,7 @@ footer .theme-by {
 .post-preview a:hover {
   text-decoration: none;
   color: #0085a1;
+  color: #ea353e;
 }
 
 .post-preview .post-title {

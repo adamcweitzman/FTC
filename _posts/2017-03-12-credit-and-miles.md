@@ -1,16 +1,15 @@
 ---
 layout: post
-title: Episode 3 - Credit and the Miles Game
+title: Episode 2 - Credit and the Miles Game
 bigimg: /EpisodeBanners/AirplaneWing.jpg
 subtitle: How to build credit and fly for free
 ---
 
 
 <audio controls>
-  <source src="../EpisodeAudio/For_My_Sins_Full_Track.mp3" type="audio/mpeg">
+  <source src="../EpisodeAudio/Episode2MilesAndCredit.mp3" type="audio/mpeg">
 </audio>
 
-### Noah Introduces Roofstock
+### Miles, miles, miles
 
-Noah has...he thinks...read at leat 10 real estate books on the aged methods of flipping houses.
-But his first love was roofstock. On this episode Noah talks about why Roofstock makes it easy to buy homes for as cheap as 5,000 down with an FHA loan.
+Noah talks about the importance of credit, and all the differences in scores between a Vantage and a FICO score. Then we squabble over how best to build your credit, and I (Adam) break down starting off on the path to the Southwest Companion Pass...the holy grail of miles
