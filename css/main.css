@@ -191,6 +191,8 @@ img {
   .navbar-custom .avatar-container {
     width: 200px;
     margin-top: -50px;
+    margin-left: -10%;
+
   }
   
   .navbar-custom .avatar-container  .avatar-img-border {
@@ -232,6 +234,10 @@ img {
   }
   .navbar-custom .nav .navlinks-container.show-children .navlinks-children {
     display: block;
+  }
+
+  .avatar-container{
+    display:none;
   }
 }
 @media only screen and (min-width: 768px) {
@@ -678,6 +684,8 @@ td.gutter {
 
 div.avatar-container {
   width: 200px;
+  margin-left: 10%;
+
 }
 
 

@@ -11,3 +11,10 @@ footer.footer-min {
   border-top: 1px solid #eeeeee;
   text-align: center;
 }
+
+.centered {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
