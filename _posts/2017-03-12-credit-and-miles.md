@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Episode 1 - Real Estate Investing with Low Effort and Cost
-bigimg: /EpisodeBanners/RealEstateImage.jpg
-subtitle: Noah spills the beans on the newfangled real estate platform Roofstock 
+title: Episode 3 - Credit and the Miles Game
+bigimg: /EpisodeBanners/AirplaneWing.jpg
+subtitle: How to build credit and fly for free
 ---
 
 
