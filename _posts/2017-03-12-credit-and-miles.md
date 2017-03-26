@@ -6,9 +6,7 @@ subtitle: How to build credit and fly for free
 ---
 
 
-<audio controls>
-  <source src="http://traffic.libsyn.com/fightthecube/Episode2MilesAndCredit_.mp3" type="audio/mpeg">
-</audio>
+<iframe style="border: none" src="//html5-player.libsyn.com/embed/episode/id/5183719/height/360/width/640/theme/standard/autonext/no/thumbnail/yes/autoplay/no/preload/no/no_addthis/no/direction/backward/" height="360" width="640" scrolling="no"  allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
 
 ### Miles, miles, miles
 

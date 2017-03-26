@@ -6,9 +6,7 @@ subtitle: Noah spills the beans on the newfangled real estate platform Roofstock
 ---
 
 
-<audio controls>
-  <source src="http://traffic.libsyn.com/fightthecube/Episode1RealEstate_withLowCostAnd_Effort.mp3" type="audio/mpeg">
-</audio>
+<iframe style="border: none" src="//html5-player.libsyn.com/embed/episode/id/5183713/height/360/width/640/theme/standard/autonext/no/thumbnail/yes/autoplay/no/preload/no/no_addthis/no/direction/backward/" height="360" width="640" scrolling="no"  allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
 
 ### Noah Introduces Roofstock
 
