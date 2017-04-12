@@ -2,7 +2,7 @@
 layout: post
 title: Episode 3 - Conquer Your Student Loans w/ Zack Friedman
 bigimg: /EpisodeBanners/Pistol.jpg
-subtitle: Forbes contributor and Make Lemonade founder Zach Friedman comes on to talk all things student loans
+subtitle: Forbes contributor and Make Lemonade founder Zack Friedman comes on to talk all things student loans
 ---
 <iframe style="border: none" src="//html5-player.libsyn.com/embed/episode/id/5251517/height/360/width/640/theme/standard/autonext/no/thumbnail/yes/autoplay/no/preload/no/no_addthis/no/direction/backward/" height="360" width="640" scrolling="no"  allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
 
