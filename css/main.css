@@ -717,3 +717,92 @@ div.avatar-container {
 #social-share-section {
   margin-bottom: 30px;
 }
+
+
+
+
+single-content-sidebar{
+  padding: 30px 1470px
+}
+}media (min-widt
+h: 1200px){.single-content, .single-content-sidebar{
+  padding: 30px 18100px
+}
+}.single-content h1, .single-content-sidebar h1{
+letter-spacing: -1pt
+}media (min-widt
+h: 768px){.single-content h1, .single-content-sidebar h1{
+  font-size: 44px
+  font-size: 4.4rem
+}
+}.single-content h2, .single-content-sidebar h2{
+font-size: 28px
+font-size: 2.8rem
+}.single-content-sidebar{
+padding: 30px 8
+}media (min-widt
+h: 992px){.single-content-sidebar{
+  padding: 30px 0 70px
+}
+}media (min-widt
+h: 1200px){.single-content-sidebar{
+  padding: 30px 0 170px
+}
+}.single-content-sidebar-area{
+padding: 30px 15px
+}media (min-widt
+h: 992px){.single-content-sidebar-area{
+  padding: 70px 0 0 25px
+}
+}.single-content-sidebar-area .meta{
+width: 80
+}.single-content-sidebar-area .met
+a: after, .single-content-sidebar-area .met
+a: before{
+content: " "
+display: table
+}.single-content-sidebar-area .met
+a: after{
+clear: both
+}media (min-widt
+h: 992px){.single-content-sidebar-area .meta{
+  margin-bottom: 200px
+}
+}.single-content-sidebar-area .user-img{
+width: 20
+}.single-content-sidebar-area hr{
+width: 100
+margin: 15px auto
+}.single-content-sidebar-area .similar-post a, .single-content-sidebar-area .similar-post h3{
+font-family: "Source Sans Pro", Helvetica, Arial, sans-serif
+font-weight: 700
+color: 333
+font-size: 20px
+font-size: 2rem
+}.single-content-sidebar-area .similar-cat{
+position: relative
+margin-bottom: 10px
+}.single-content-sidebar-area .similar-cat img{
+width: 100
+}.single-content-sidebar-area .similar-cat h3{
+font-family: "Source Sans Pro", Helvetica, Arial, sans-serif
+font-weight: 700
+color: fff
+font-size: 20px
+font-size: 2rem
+position: absolute
+bottom: 15px
+right: 15px
+margin: 0
+}footer.single{
+padding: 40px 0 0
+background-color: F5F5F5
+border-top: solid 1pxE9E9E9
+text-align: center
+}footer.single.without-readmore{
+padding: 40px 0
+}media (min-widt
+h: 768px){footer.single{
+  text-align: left
+}
+}
