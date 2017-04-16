@@ -3,6 +3,7 @@ layout: post
 title: Episode 1 - How to Grow Your Net Worth to $1,000,000 w/ Grant Sabatier
 bigimg: /EpisodeBanners/Money.jpg
 subtitle: Millennial Money CEO Grant comes on the pod to educate us on index funds, day trading, and things to invest in if you have some unused cash lying around
+comments: true
 ---
 
 

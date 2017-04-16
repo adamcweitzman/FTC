@@ -3,6 +3,7 @@ layout: post
 title: Episode 2 - Credit and the Miles Game
 bigimg: /EpisodeBanners/AirplaneWing.jpg
 subtitle: How to build credit and fly for free
+comments: true
 ---
 
 
