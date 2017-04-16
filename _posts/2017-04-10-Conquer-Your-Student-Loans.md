@@ -3,6 +3,7 @@ layout: post
 title: Episode 3 - Conquer Your Student Loans w/ Zack Friedman
 bigimg: /EpisodeBanners/Pistol.jpg
 subtitle: Forbes contributor and Make Lemonade founder Zack Friedman comes on to talk all things student loans
+comments: true
 ---
 <iframe style="border: none" src="//html5-player.libsyn.com/embed/episode/id/5251517/height/360/width/640/theme/standard/autonext/no/thumbnail/yes/autoplay/no/preload/no/no_addthis/no/direction/backward/" height="360" width="640" scrolling="no"  allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
 
@@ -39,3 +40,5 @@ Zack's Student Loan Treasure Trove - [Make Lemonade](http://makelemonade.co/)
 13) What companies or vendors do you recommend for refinancing? 
 
 14) What is the difference in repayment between federal and private loans?
+
+
