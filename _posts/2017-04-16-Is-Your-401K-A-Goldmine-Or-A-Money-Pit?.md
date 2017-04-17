@@ -7,7 +7,7 @@ comments: true
 ---
 ### Summary
 
-Wealth Factory CEO and Forbes Contributor Garrett Gunderson pops on the pod to deep dive into 401K accounts. I won't spoil it for you but he feels strongly about them in either a positive or a negative light. We also hash out some good basic investing strategies and Garrett gives us some good resources to start on the right track to wealth nirvana
+Wealth Factory CEO and Forbes Contributor Garrett Gunderson pops on the pod to deep dive into 401K accounts. I won't spoil it for you but he feels strongly about them in either a positive or a negative light. We also hash out some good basic investing strategies and Garrett gives us some good resources to start on the right track to wealth nirvana.
 
 <iframe style="border: none" src="//html5-player.libsyn.com/embed/episode/id/5270775/height/360/width/640/theme/standard/autonext/no/thumbnail/yes/autoplay/no/preload/no/no_addthis/no/direction/backward/" height="360" width="640" scrolling="no"  allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
 
@@ -19,9 +19,10 @@ Wealth Factory CEO and Forbes Contributor Garrett Gunderson pops on the pod to d
 * Simple tax saving methods to save you hundreds
 * Budgeting like a boss dipped in sauce
 
-
 ### Resources
 
-* Grants Free Wealth Building EBook - [What Would the Rockafellers Do?](https://wealthfactory.com/rockefellers/book/) Remeber if you text grant (he says the number around minute 37) you can get a hardcopy for free
-* Grants New Book - [Killing Sacred Cows](https://www.amazon.com/Killing-Sacred-Cows-Overcoming-Destroying-ebook/dp/B009P9LTI4/ref=la_B001JOS4UY_1_1?s=books&ie=UTF8&qid=1492389747&sr=1-1)
-* Grants Business - [Wealth Factory](https://wealthfactory.com/)
+* Grant's Free Wealth Building EBook - [What Would the Rockafellers Do?](https://wealthfactory.com/rockefellers/book/) Remeber if you text Grant (he says the number around minute 37) you can get a hardcopy for free
+* Grant's New Book - [Killing Sacred Cows](https://www.amazon.com/Killing-Sacred-Cows-Overcoming-Destroying-ebook/dp/B009P9LTI4/ref=la_B001JOS4UY_1_1?s=books&ie=UTF8&qid=1492389747&sr=1-1)
+* Grant's Business - [Wealth Factory](https://wealthfactory.com/)
+
+<br><br>
