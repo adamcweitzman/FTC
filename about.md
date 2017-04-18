@@ -7,10 +7,10 @@ subtitle:
 
 # Why?
 
-* We made Fight The Cube because we hate the corporate zombie bullshit lifestyle. We know there is more to life then salivating over the christmas (hannukah for us) bonus
+* We made Fight The Cube because we hate the corporate zombie bullshit lifestyle
  
 
-* Beceause we don't want to be like Bill (Bill who brings in chocolate donuts once a month to sway the execs into giving him a corner office)
+* Because we don't want to be like Bill, Bill who brings in chocolate donuts once a month to sway the execs into giving him a corner office
 
 
 * Because music, writing, photography, scuba diving, surfing, shed building, chicken raising, goat herding, cocktail mixing, reading, sleeping, and buying a duvee are all more interesting then working for Bill
