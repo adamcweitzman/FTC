@@ -4,6 +4,18 @@ title: About
 subtitle: 
 ---
 
+
+# Why?
+
+* We made Fight The Cube because we hate the corporate zombie bullshit lifestyle. We know there is more to life then salivating over the christmas (hannukah for us) bonus
+ 
+
+* Beceause we don't want to be like Bill (Bill who brings in chocolate donuts once a month to sway the execs into giving him a corner office)
+
+
+* Because music, writing, photography, scuba diving, surfing, shed building, chicken raising, goat herding, cocktail mixing, reading, sleeping, and buying a duvee are all more interesting then working for Bill
+
+
 ## Adam Weitzman:
 
 - Software peon
@@ -18,12 +30,8 @@ subtitle:
 
 &nbsp;
 
-# Why?
+<center><h1>Welcome To The Fight</h1></center>
 
 
 
-* We made this podcast to learn how to save, profit, and hustle our way out of the 9 - 5 machine.
 
-* We want others to find value in our struggle ... learn from our mistakes, build off our successes, drink black coffee.
-
-* Join us as we battle the demons of corporate zombie existence and fight our way into the light of financial independence...that or we go down in flames trying :)
