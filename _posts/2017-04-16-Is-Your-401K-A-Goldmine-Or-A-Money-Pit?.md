@@ -21,8 +21,8 @@ Wealth Factory CEO and Forbes Contributor Garrett Gunderson pops on the pod to d
 
 ### Resources
 
-* Grant's Free Wealth Building EBook - [What Would the Rockafellers Do?](https://wealthfactory.com/rockefellers/book/) Remeber if you text Grant (he says the number around minute 37) you can get a hardcopy for free
-* Grant's New Book - [Killing Sacred Cows](https://www.amazon.com/Killing-Sacred-Cows-Overcoming-Destroying-ebook/dp/B009P9LTI4/ref=la_B001JOS4UY_1_1?s=books&ie=UTF8&qid=1492389747&sr=1-1)
-* Grant's Business - [Wealth Factory](https://wealthfactory.com/)
+* Garrett's Free Wealth Building EBook - [What Would the Rockafellers Do?](https://wealthfactory.com/rockefellers/book/) Remeber if you text Garrett (he says the number around minute 37) you can get a hardcopy for free
+* Garrett's New Book - [Killing Sacred Cows](https://www.amazon.com/Killing-Sacred-Cows-Overcoming-Destroying-ebook/dp/B009P9LTI4/ref=la_B001JOS4UY_1_1?s=books&ie=UTF8&qid=1492389747&sr=1-1)
+* Garrett's Business - [Wealth Factory](https://wealthfactory.com/)
 
 <br><br>
