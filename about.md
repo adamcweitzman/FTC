@@ -30,7 +30,7 @@ subtitle:
 
 &nbsp;
 
-<center><h1>Welcome To The Fight</h1></center>
+<center><h1>WELCOME TO THE FIGHT</h1></center>
 
 
 

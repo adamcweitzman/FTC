@@ -7,7 +7,11 @@ comments: true
 ---
 ### Summary
 
-Wealth Factory CEO and Forbes Contributor Garrett Gunderson pops on the pod to deep dive into 401K accounts. I won't spoil it for you but he feels strongly about them in either a positive or a negative light. We also hash out some good basic investing strategies and Garrett gives us some good resources to start on the right track to wealth nirvana.
+Wealth Factory CEO and Forbes Contributor Garrett Gunderson pops on the pod to deep dive into 401K accounts. 
+
+I won't spoil it for you but he feels strongly about them in either a positive or a negative light. 
+
+We also hash out some good basic investing strategies and Garrett gives us some good resources to start on the right track to wealth nirvana.
 
 <iframe style="border: none" src="//html5-player.libsyn.com/embed/episode/id/5270775/height/360/width/640/theme/standard/autonext/no/thumbnail/yes/autoplay/no/preload/no/no_addthis/no/direction/backward/" height="360" width="640" scrolling="no"  allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
 
