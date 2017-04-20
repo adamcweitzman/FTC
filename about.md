@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: pageWithoutHeader
 title: About
 subtitle: 
 ---
