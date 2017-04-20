@@ -10,5 +10,7 @@ subtitle:
 
 ## Willing to have a brief 8 minute 30 second feedback conversation?
 
-## Send me an email at adam@fightthecube.com with your full name and 2 that work for you. After the call I'll email you the starbucks card :)
+## Send me an email at adam@fightthecube.com with your full name and 2 times that work for you. 
+
+## After the call I'll email you the starbucks card :)
 
