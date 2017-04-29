@@ -4,13 +4,10 @@ title: Free Starbucks
 subtitle: 
 ---
 
-## Want $10 To Starbucks?
 
-## Are you someone Noah or I haven't met before?
+1. Must be someone we haven't met before
 
-## Willing to have a brief 8 minute 30 second feedback conversation?
+2. Send me an email to adam@fightthecube.com with your full name and when you can have a 10 minute phone conversation. We'll talk about what brought you to the site, what you want to hear more of, what your interests are...do it on your commute!
 
-## Send me an email at adam@fightthecube.com with your full name and 2 times that work for you. 
-
-## After the call I'll email you the starbucks card :)
+3. We talk. I send you $10 to starbucks $1/minute of talky time :)
 
