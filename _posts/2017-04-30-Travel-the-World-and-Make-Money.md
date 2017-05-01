@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Episode 7 - Travel the World and Save Money w/ Nathaniel Boyle
+title: Episode 7 - Travel the World and Make Money w/ Nathaniel Boyle
 bigimg: /EpisodeBanners/Sunset.jpg
 subtitle: Travel guru and hardworking blogger/podcaster Nathaniel Boyle shares the magic of travel and how to follow in his footsteps around the globe
 comments: true
@@ -14,7 +14,7 @@ It's obvious why he has such a large following. The guy makes you want to get up
 
 Nathaniel divulges his story (spoiler alert he's traveled...alot) and shares how and when to quit your job to lead a life of more fulfillment and joy.
 
-<iframe style="border: none" src="//html5-player.libsyn.com/embed/episode/id/5301124/height/360/width/640/theme/standard/autonext/no/thumbnail/yes/autoplay/no/preload/no/no_addthis/no/direction/backward/" height="360" width="640" scrolling="no"  allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+<iframe style="border: none" src="//html5-player.libsyn.com/embed/episode/id/5315370/height/360/width/640/theme/standard/autonext/no/thumbnail/yes/autoplay/no/preload/no/no_addthis/no/direction/backward/" height="360" width="640" scrolling="no"  allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
 
 
 ### In This Episode You'll Learn
