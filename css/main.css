@@ -762,6 +762,11 @@ div.avatar-container {
 
 #postSidebar {
   background-color: #FDE74C;
+  margin-top: 20px;
+}
+
+#emptyCol {
+  color:white; 
 }
 
 /*blue: #5BC0EB*/
