@@ -28,6 +28,7 @@ navbar-links:
   About: "about"
   Podcast: "podcast"
   Blog: "blog"
+  Get Started: "about"
   # Resources:
   #   - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
   #   - Learn markdown: "http://www.markdowntutorial.com/"
