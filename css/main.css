@@ -744,6 +744,16 @@ div.avatar-container {
   margin-top: 60px;
 }
 
+#heroImg {
+  width: 100%;
+}
+
+#getStartedBtn {
+  background-color: #FDE74C;
+  border-color: black;
+  color: black;
+}
+
 /*blue: #5BC0EB*/
 /*red: #FDE74C*/
 
