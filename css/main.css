@@ -193,8 +193,7 @@ img {
   .navbar-custom .avatar-container {
     width: 200px;
     margin-top: -50px;
-    margin-left: -10%;
-
+/*    margin-left: -10%;*/
   }
   
   .navbar-custom .avatar-container  .avatar-img-border {
@@ -240,6 +239,7 @@ img {
 
   .avatar-container{
     display:none;
+    left: 40%;
   }
 }
 @media only screen and (min-width: 768px) {
@@ -687,8 +687,6 @@ td.gutter {
 
 div.avatar-container {
   width: 200px;
-  margin-left: 10%;
-
 }
 
 .share-page {
@@ -752,6 +750,10 @@ div.avatar-container {
   background-color: #FDE74C;
   border-color: black;
   color: black;
+}
+
+.avatar-img {
+  margin-left: -50%;
 }
 
 /*blue: #5BC0EB*/
