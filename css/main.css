@@ -756,6 +756,14 @@ div.avatar-container {
   margin-left: -50%;
 }
 
+.customIframe {
+  width: 90%;
+}
+
+#postSidebar {
+  background-color: #FDE74C;
+}
+
 /*blue: #5BC0EB*/
 /*red: #FDE74C*/
 

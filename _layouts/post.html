@@ -7,7 +7,7 @@ layout: base
 
 <div class="container">
   <div class="row">
-    <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+    <div class="col-md-8 col-sm-offset-1">
       {% if page.social-share %}
         {% include social-share.html %}
       {% endif %}
@@ -47,6 +47,7 @@ layout: base
         {% endif %}
       </ul>
 
+
       {% if page.comments %}
         <div class="disqus-comments">
           <div class="comments">
@@ -75,5 +76,8 @@ layout: base
         </div>
       {% endif %}
     </div>
+
+        {% include sidebar.html%}
+        
   </div>
 </div>

@@ -14,7 +14,7 @@ The guy is crushing it with several international (not on US soil) Airbnb vacati
 
 Jasper's strategy involves luxury rentals for older couples and has more than a few awesome hacks for getting started cheaply with Airbnb.
 
-<iframe style="border: none" src="//html5-player.libsyn.com/embed/episode/id/5335605/height/90/width/640/theme/custom/autonext/no/thumbnail/yes/autoplay/no/preload/no/no_addthis/no/direction/backward/render-playlist/no/custom-color/87A93A/" height="90" width="640" scrolling="no"  allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+<iframe  class="customIframe" style="border: none" src="//html5-player.libsyn.com/embed/episode/id/5335605/height/90/width/640/theme/custom/autonext/no/thumbnail/yes/autoplay/no/preload/no/no_addthis/no/direction/backward/render-playlist/no/custom-color/87A93A/" height="90" width="640" scrolling="no"  allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
 
 
 ### In This Episode You'll Learn
