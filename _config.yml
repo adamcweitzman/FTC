@@ -27,7 +27,7 @@ description: A virtual proof that name is awesome!
 navbar-links:
   About: "about"
   Podcast: "podcast"
-  Free Starbucks: "freestarbucks"
+  Blog: "blog"
   # Resources:
   #   - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
   #   - Learn markdown: "http://www.markdowntutorial.com/"

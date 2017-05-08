@@ -4,6 +4,9 @@ title: About
 subtitle: 
 ---
 
+<div>
+	<img src="../img/adamnoahbaby.jpg" alt="">
+</div>
 
 # Why?
 
