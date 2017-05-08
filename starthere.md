@@ -33,6 +33,20 @@ We are building an arsenal of these weapons to fight against the dogma of societ
 
 Welcome To The Fight.
 
+<div id="startHereLinks">
+	<div class="col-sm-4">
+		<h1>Classic FTC</h1>
+		<a href="/2017-04-08-how-to-grow-your-net-worth-to-$1,000,000"><img src="../EpisodeBanners/Money.JPG" alt=""></a>
+	</div>
+	<div class="col-sm-4">
+		<h1>Amazon FBA</h1>
+		<a href="/2017-04-26-Make-Easy-Money-Selling-With-Amazon-FBA"><img src="../EpisodeBanners/AmazonRiver.jpg" alt=""></a>
+	</div>
+	<div class="col-sm-4">
+		<h1>Loan Refinancing</h1>
+		<a href="/2017-04-10-Conquer-Your-Student-Loans"><img src="../EpisodeBanners/Pistol.jpg" alt=""></a>
+	</div>	
+</div>
 
 
 
