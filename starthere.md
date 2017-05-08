@@ -36,7 +36,7 @@ Welcome To The Fight.
 <div id="startHereLinks">
 	<div class="col-sm-4">
 		<h1>Classic FTC</h1>
-		<a href="/2017-04-08-how-to-grow-your-net-worth-to-$1,000,000"><img src="../EpisodeBanners/Money.JPG" alt=""></a>
+		<a href="/2017-04-08-how-to-grow-your-net-worth-to-$1,000,000"><img src="../EpisodeBanners/Money.jpg" alt=""></a>
 	</div>
 	<div class="col-sm-4">
 		<h1>Amazon FBA</h1>
