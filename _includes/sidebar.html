@@ -4,7 +4,7 @@
     <h2 class="favorites">Similar Posts</h2>
     {% for post in site.related_posts limit:5 %}
         <div class="similar-post">
-            <a href="/demo/writer/jekyll/v1-d-20-2//ten-reasons-to-travel-the-world">
+            <a href={{post.url}}>
                 <h3 class="sidebarTitle">{{post.title}}</h3>
             </a>
         </div>
