@@ -723,6 +723,30 @@ div.avatar-container {
   margin-bottom: 40px;
 }
 
+.card {
+}
+
+.cardBorder {
+  border-style: solid;
+}
+
+.card-text {
+  line-height: 1.15;
+    margin-left: 5px;
+  margin-right: 5px;
+}
+
+.card-title {
+  color: #404040;
+}
+
+.homeSubscribe {
+  margin-top: 60px;
+}
+
+/*blue: #5BC0EB*/
+/*red: #FDE74C*/
+
 
 
 

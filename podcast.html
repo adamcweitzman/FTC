@@ -1,51 +1,11 @@
 ---
 layout: page
-title: Fight The Cube
-subtitle: Because waiting until you're 59 and a half to retire is weak AF
+title: Podcast
 ---
-<div id="freeStarbucks" class="text-center">
-    <a href="/freestarbucks" class="btn btn-white btn-success btn-large">
-        <i class="fa fa-coffee aria-hidden="true"></i> Free Starbucks
-    </a>
-<!--   <button type="button" class="btn btn-primary text-center">Free Starbucks</button> -->
-</div>
-
-<div>
-  <div class="col-sm-4 text-center">
-    <div class="card cardBorder" style="">
-      <i class="fa fa-book aria-hidden="true"></i>
-      <div class="card-block">
-        <a href="#"><h4 class="card-title">Read the Blog</h4></a>
-        <p class="card-text">Learn the newest secrets of world travelers, real estate mavens, side</p>
-      </div>
-    </div>
-  </div>
-  <div class="col-sm-4 text-center">
-    <div class="card" style="">
-      <i class="fa fa-headphones aria-hidden="true"></i>
-      <div class="card-block">
-        <a href="/podcast"><h4 class="card-title">Listen to the Pod</h4></a>
-        <p class="card-text">Let us violate your earbuds with interviews from money hustlers</p>
-      </div>
-    </div>
-  </div>
-  <div class="col-sm-4 text-center">
-    <div class="card cardBorder" style="">
-      <i class="fa fa-coffee aria-hidden="true"></i>
-      <div class="card-block">
-        <a href="#"><h4 class="card-title">New? Get Started</h4></a>
-        <p class="card-text">Dive into Fight The Cube and learn why we made this crazy thing</p>
-      </div>
-    </div>
-  </div>
-</div>
-
-{% include newsletter.html %}
-
 
 
 <div class="posts-list">
-  {% for post in paginator.posts %}
+  {% for post in site.posts %}
   <article class="post-preview">
     <a href="{{ post.url | prepend: site.baseurl }}">
 	  <h2 class="post-title">{{ post.title }}</h2>
@@ -109,4 +69,3 @@ subtitle: Because waiting until you're 59 and a half to retire is weak AF
   {% endif %}
 </ul>
 {% endif %}
-
