@@ -14,7 +14,7 @@ It's obvious why he has such a large following. The guy makes you want to get up
 
 Nathaniel divulges his story (spoiler alert he's traveled...alot) and shares how and when to quit your job to lead a life of more fulfillment and joy.
 
-<iframe style="border: none" src="//html5-player.libsyn.com/embed/episode/id/5315370/height/360/width/640/theme/standard/autonext/no/thumbnail/yes/autoplay/no/preload/no/no_addthis/no/direction/backward/" height="360" width="640" scrolling="no"  allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+<iframe style="border: none" src="//html5-player.libsyn.com/embed/episode/id/5315370/height/90/width/640/theme/custom/autonext/no/thumbnail/yes/autoplay/no/preload/no/no_addthis/no/direction/backward/render-playlist/no/custom-color/87A93A/" height="90" width="576" scrolling="no"  allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
 
 
 ### In This Episode You'll Learn

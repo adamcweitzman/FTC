@@ -14,7 +14,7 @@ We dive into all the goodies that come with setting up an amazon business.
 
 It's not for the faint of heart, but the rewards are HUGE.
 
-<iframe style="border: none" src="//html5-player.libsyn.com/embed/episode/id/5301124/height/360/width/640/theme/standard/autonext/no/thumbnail/yes/autoplay/no/preload/no/no_addthis/no/direction/backward/" height="360" width="640" scrolling="no"  allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+<iframe style="border: none" src="//html5-player.libsyn.com/embed/episode/id/5301124/height/90/width/576/theme/custom/autonext/no/thumbnail/yes/autoplay/no/preload/no/no_addthis/no/direction/backward/render-playlist/no/custom-color/87A93A/" height="90" width="576" scrolling="no"  allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
 
 
 ### In This Episode You'll Learn

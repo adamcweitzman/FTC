@@ -1,33 +1,12 @@
-
-<!--     <img src="/demo/writer/jekyll/v1-d-20-2/img/michelle.jpg" class="user-icon " alt="user-image"> -->
 <div id="postSidebar" class="col-sm-3">
     <div class="meta">
     </div>
     <h2 class="favorites">Similar Posts</h2>
-    <div class="similar-post">
-        <a href="/demo/writer/jekyll/v1-d-20-2//ten-reasons-to-travel-the-world">
-            <h3>10 Reasons to travel the world</h3>
-        </a>
-    </div>
-    <div class="similar-post">
-        <a href="/demo/writer/jekyll/v1-d-20-2//supercharge-your-workflow-with-grunt">
-            <h3>Supercharge Your Workflow With Grunt</h3>
-        </a>
-    </div>
-    <div class="similar-post">
-        <a href="/demo/writer/jekyll/v1-d-20-2//you-dont-have-to-be-great-to-get-started">
-            <h3>You Dont Have To Be Great To Get Started</h3>
-        </a>
-    </div>
-    <div class="similar-post">
-        <a href="/demo/writer/jekyll/v1-d-20-2//why-react-js-will-change-the-world">
-            <h3>Why React JS Will Change the World</h3>
-        </a>
-    </div>
-    <div class="similar-post">
-        <a href="/demo/writer/jekyll/v1-d-20-2//stop-thinking-and-start-doing">
-            <h3>Stop Thinking And Start Doing</h3>
-        </a>
-    </div>
+    {% for post in site.related_posts limit:5 %}
+        <div class="similar-post">
+            <a href="/demo/writer/jekyll/v1-d-20-2//ten-reasons-to-travel-the-world">
+                <h3 class="sidebarTitle">{{post.title}}</h3>
+            </a>
+        </div>
+    {% endfor %}
 </div>
-

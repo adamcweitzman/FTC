@@ -4,13 +4,14 @@ title: Episode 1 - How to Grow Your Net Worth to $1,000,000 w/ Grant Sabatier
 bigimg: /EpisodeBanners/Money.jpg
 subtitle: Millennial Money CEO Grant comes on the pod to educate us on index funds, day trading, and things to invest in if you have some unused cash lying around
 comments: true
+tags: [classic, personalfinance, sidehustle]
 ---
 
 ### Summary
 
 Grant is the man. He knows a ton about what to do with that little nest egg you have lying dormant in your savings account. We talk about different places to stash your money so it will bloom into a nice little money flower that you can then harvest and put in your salad of income! Grant also gets personal and talks us about his work habits, hitting the wall, and keeping it real with green smoothies.
 
-<iframe style="border: none" src="//html5-player.libsyn.com/embed/episode/id/5251563/height/360/width/640/theme/standard/autonext/no/thumbnail/yes/autoplay/no/preload/no/no_addthis/no/direction/backward/" height="360" width="640" scrolling="no"  allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+<iframe style="border: none" src="//html5-player.libsyn.com/embed/episode/id/5251563/height/90/width/640/theme/custom/autonext/no/thumbnail/yes/autoplay/no/preload/no/no_addthis/no/direction/backward/render-playlist/no/custom-color/87A93A/" height="90" width="576" scrolling="no"  allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
 
 ### In This Episode You'll Learn
 

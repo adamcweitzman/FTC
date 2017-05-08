@@ -4,6 +4,7 @@ title: Episode 4 - Is Your 401K a Goldmine or a Money Pit w/ Garrett Gunderson
 bigimg: /EpisodeBanners/LegoGoldmine.jpg
 subtitle: Wealth Factory CEO and Forbes Contributor Garrett Gunderson Comes On To Deep Dive into the Relative Worth of a 401K
 comments: true
+tags: [classic, personalfinance, 401K]
 ---
 ### Summary
 
@@ -13,7 +14,7 @@ I won't spoil it for you but he feels strongly about them in either a positive o
 
 We also hash out some good basic investing strategies and Garrett gives us some good resources to start on the right track to wealth nirvana.
 
-<iframe style="border: none" src="//html5-player.libsyn.com/embed/episode/id/5270775/height/360/width/640/theme/standard/autonext/no/thumbnail/yes/autoplay/no/preload/no/no_addthis/no/direction/backward/" height="360" width="640" scrolling="no"  allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+<iframe style="border: none" src="//html5-player.libsyn.com/embed/episode/id/5270775/height/90/width/640/theme/custom/autonext/no/thumbnail/yes/autoplay/no/preload/no/no_addthis/no/direction/backward/render-playlist/no/custom-color/87A93A/" height="90" width="576" scrolling="no"  allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
 
 
 ### In This Episode You'll Learn
