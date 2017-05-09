@@ -747,7 +747,7 @@ div.avatar-container {
 }
 
 #getStartedBtn {
-  background-color: #FDE74C;
+  background-color: #C5D86D;
   border-color: black;
   color: black;
 }
@@ -761,8 +761,9 @@ div.avatar-container {
 }
 
 #postSidebar {
-  background-color: #FDE74C;
+  background-color: white;
   margin-top: 20px;
+  border: solid;
 }
 
 #emptyCol {
@@ -770,15 +771,19 @@ div.avatar-container {
 }
 
 .sidebarTitle {
-  color: #5BC0EB;
+  color: #404040;
 }
 
 .subscribeSidebarForm {
-  background-color: #FDE74C;
+  background-color: white;
+}
+
+#similarPosts {
+  color: #ea363f;
 }
 
 /*blue: #5BC0EB*/
-/*red: #FDE74C*/
+/*yelloq: #FDE74C*/
 
 
 

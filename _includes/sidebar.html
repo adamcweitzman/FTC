@@ -1,7 +1,7 @@
 <div id="postSidebar" class="col-sm-3">
     <div class="meta">
     </div>
-    <h2 class="favorites">Similar Posts</h2>
+    <h2 id="similarPosts" class="favorites">Similar Posts</h2>
     {% for post in site.related_posts limit:4 %}
         <div class="similar-post">
             <a href={{post.url}}>
