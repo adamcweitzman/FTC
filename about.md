@@ -32,7 +32,7 @@ Enter Fight The Cube where we interview people who have both money, and the time
 
 &nbsp;
 
-<center><h1>WELCOME TO THE FIGHT</h1></center>
+<center><a href="/"><h1>WELCOME TO THE FIGHT</h1></a></center>
 
 
 
