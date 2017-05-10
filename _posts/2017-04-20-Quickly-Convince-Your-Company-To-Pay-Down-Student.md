@@ -5,6 +5,7 @@ bigimg: /EpisodeBanners/CreditSqueeze.jpg
 bigimg: /EpisodeBanners/CreditSqueeze.jpg
 subtitle: Student Loan Genius will call your employer anonymously and ask them to switch over your money from your 401k to ol' dirt nasty debt
 comments: true
+categories: personalfinance
 ---
 ### Summary
 

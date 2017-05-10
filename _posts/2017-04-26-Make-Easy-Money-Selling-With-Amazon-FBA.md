@@ -4,6 +4,8 @@ title: Episode 6 - Make Easy Money Selling with Amazon FBA
 bigimg: /EpisodeBanners/AmazonRiver.jpg
 subtitle: We discuss the beauty of the automated profit machine that is Amazon FBA. We give you a quick startup guide and some of the things to look out for when sourcing potential products.
 comments: true
+categories: amazonfba
+tags: [classic, personalfinance, sidehustle]
 ---
 
 ### Summary

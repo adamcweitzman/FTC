@@ -4,6 +4,7 @@ title: Episode 8 - Passively Earn 60K A Year On Airbnb w/ Jasper Ribbers aka The
 bigimg: /EpisodeBanners/Brick.jpg
 subtitle: Airbnb crusher Jasper Ribbers discusses hatred of office life and how he escaped with vacation rentals
 comments: true
+categories: realestate
 ---
 
 ### Summary

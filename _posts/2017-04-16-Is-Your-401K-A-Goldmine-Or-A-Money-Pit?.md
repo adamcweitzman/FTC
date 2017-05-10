@@ -5,6 +5,7 @@ bigimg: /EpisodeBanners/LegoGoldmine.jpg
 subtitle: Wealth Factory CEO and Forbes Contributor Garrett Gunderson Comes On To Deep Dive into the Relative Worth of a 401K
 comments: true
 tags: [classic, personalfinance, 401K]
+categories: personalfinance
 ---
 ### Summary
 
