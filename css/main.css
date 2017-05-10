@@ -782,6 +782,20 @@ div.avatar-container {
   color: #ea363f;
 }
 
+.homeCategory {
+/*  border: solid;*/
+/*  padding: 5px;
+  margin: 3px;*/
+}
+
+.category {
+  margin-top:15px;
+}
+
+.categoryRow {
+  margin-top: 25px;
+}
+
 /*blue: #5BC0EB*/
 /*yelloq: #FDE74C*/
 
