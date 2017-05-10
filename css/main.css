@@ -796,6 +796,15 @@ div.avatar-container {
   margin-top: 25px;
 }
 
+.bottomPostCol {
+  padding: 0px;
+  height: 100px;
+}
+
+.bottomPostImg {
+  height: 150px;
+  margin-bottom: 10px;
+}
 /*blue: #5BC0EB*/
 /*yelloq: #FDE74C*/
 

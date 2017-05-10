@@ -8,22 +8,21 @@ subtitle:
 	<img src="../img/adamnoahbaby.jpg" alt="">
 </div>
 
-# Why?
-
-* We made Fight The Cube because we hate the corporate zombie bullshit lifestyle
- 
-
-* Because we don't want to be like Bill, Bill who brings in chocolate donuts once a month to sway the execs into giving him a corner office
-
-
-* Because music, writing, photography, scuba diving, surfing, shed building, chicken raising, goat herding, cocktail mixing, reading, sleeping, and buying a duvee are all more interesting then working for Bill
-
-
 ## Adam Weitzman:
 
-- Software peon
-- Has eaten a fried cricket
-- Lives in search of the next hot tub
+Hi I'm Adam, I'm a Software Developer in Austin TX. 
+
+Ever since I read the book [Farewell My Subaru](http://dougfine.com/books/farewell-my-subaru/) and lived in the Oregon desert during high school I've been totally obsessed with nature.
+
+This lead me to take a job as a Naturalist out of college (a profession where you take people on hikes.)
+
+As you can imagine I wasn't making billions and quickly fell into debt, and after 3 years of backbreaking 14 hour days I had almost nothing to show for it.
+
+So I went on a journey to make more of the $$ and ended up programming for the last 3 years. And while I'm making more then I ever have, I'm chained to my desk from 9 - 5 most days of the year.
+
+It seems it's either make money. Or do something awesome and make no money. I want to have both.
+
+Enter Fight The Cube where we interview people who have both money, and the time to do things they are passionate about.
 
 ## Noah Weitzman:
 

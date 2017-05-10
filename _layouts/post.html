@@ -16,7 +16,19 @@ layout: base
         {{ content }}
       </article>
 
-      {% if page.tags.size > 0 %}
+      {% if page.social-share %}
+        {% include social-share.html %}
+      {% endif %}
+<!--       
+      <div class="row">
+          {% for post in site.related_posts limit:3 %}
+            <div class="col-xs-4 bottomPostCol">
+              <img class="bottomPostImg" src="{{post.bigimg}}" alt="">
+            </div>
+          {% endfor %}
+      </div> -->
+
+<!--       {% if page.tags.size > 0 %}
         <div class="blog-tags">
           Tags:
           {% if site.link-tags %}
@@ -28,11 +40,9 @@ layout: base
           {% endif %}
 
         </div>
-      {% endif %}
+      {% endif %} -->
 
-      {% if page.social-share %}
-        {% include social-share.html %}
-      {% endif %}
+
 
       <ul class="pager blog-pager">
         {% if page.previous.url %}
@@ -82,8 +92,5 @@ layout: base
         </div>
         {% include sidebar.html%}
       </div>
-
-        
-
   </div>
 </div>
