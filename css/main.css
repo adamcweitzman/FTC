@@ -805,6 +805,15 @@ div.avatar-container {
   height: 150px;
   margin-bottom: 10px;
 }
+
+#recentPostImg {
+  width: 100%;
+  height: 200px;
+}
+
+.latestPost {
+  margin-top: 20px;
+}
 /*blue: #5BC0EB*/
 /*yelloq: #FDE74C*/
 

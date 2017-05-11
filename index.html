@@ -1,11 +1,21 @@
 ---
 layout: page
 title: Fight The Cube
-subtitle: Because waiting until you're 59 and a half to retire is weak AF
+subtitle: Because waiting until you're 59 and a half to retire is weak AF <br></br> Aggressive early retirement through AmazonFBA | Personal Finance | Travel Rewards | Real Estate
 ---
 <!-- <div>
   <img id="heroImg" src="../img/welcometothefightcentered.png" alt="">
 </div> -->
+<div class="row latestPost">
+  <div class="col-sm-6">
+    {% assign lastPost = site.posts.first %}
+    <a href="{{lastPost.url}}"><img id="recentPostImg" src="{{lastPost.bigimg | prepend: site.url }}" alt=""></a>
+    <a href="{{lastPost.url}}"><h2>{{lastPost.title}}</h2></a>
+  </div>
+  <div class="col-sm-6">
+    <iframe src="https://www.speakpipe.com/widget/inline/d7fsti9onubqq8morjbs04napbop4z79" frameborder="0" width="100%" height="329px"></iframe>
+  </div>
+</div>
 
 <div id="freeStarbucks" class="text-center">
     <a href="/starthere" class="btn btn-large btn-lg" id="getStartedBtn">
