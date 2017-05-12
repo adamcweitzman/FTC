@@ -13,9 +13,9 @@ But somehow that life leads to more debt, more time working in a cubicle, and le
 <center><h1>Listen To The First Episode</h1></center>
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/MR4YmUn92Ng" frameborder="0" allowfullscreen></iframe></center>
 
-We are warriors on this journey with you, we are deep in the jungle of personal finance, we are deep in the laboratory of our own manhattan project (this one with less destruction) to discover the weapons of personal finance.
+We are warriors on this journey with you, we are deep in the jungle of hustle, we are deep in the laboratory of our own manhattan project to discover the secrets of early retirement.
 
-We are building an arsenal of these weapons to fight against the dogma of society. And it is the craft of honing the proverbial knife that we want to share with the world.
+We are building an arsenal of passive income weapons to fight against the dogma of society. And it is the craft of honing the knife that we want to share with the world.
 
 We hope you'll join us and follow along as we field test everything on the site in our own lives.
 
