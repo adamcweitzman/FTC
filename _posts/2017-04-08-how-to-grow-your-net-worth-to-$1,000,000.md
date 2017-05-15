@@ -6,6 +6,7 @@ subtitle: Millennial Money CEO Grant comes on the pod to educate us on index fun
 comments: true
 categories: personalfinance
 tags: [classic, personalfinance]
+blog: false
 ---
 
 ### Summary

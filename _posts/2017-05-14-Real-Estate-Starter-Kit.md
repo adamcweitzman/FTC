@@ -5,6 +5,7 @@ bigimg: /EpisodeBanners/Residence.jpg
 subtitle: Get started in real estate! Noah discuses how he got started in real estate and different strategies to use whether you have loads of cash or only a few dollars.
 comments: true
 categories: realestate
+blog: false
 ---
 ### Summary
 

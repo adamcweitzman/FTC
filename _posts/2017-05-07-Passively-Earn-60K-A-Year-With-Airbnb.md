@@ -5,6 +5,8 @@ bigimg: /EpisodeBanners/Brick.jpg
 subtitle: Airbnb crusher Jasper Ribbers discusses hatred of office life and how he escaped with vacation rentals
 comments: true
 categories: realestate
+tags: [classic, personalfinance, sidehustle]
+blog: false
 ---
 
 ### Summary

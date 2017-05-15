@@ -5,6 +5,8 @@ bigimg: /EpisodeBanners/Sunset.jpg
 subtitle: Travel guru and hardworking blogger/podcaster Nathaniel Boyle shares the magic of travel and how to follow in his footsteps around the globe
 comments: true
 categories: travelrewards
+tags: [classic, personalfinance, sidehustle]
+blog: false
 ---
 
 ### Summary
