@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Episode 8 - (Domestic Edition) Passively Earn 60K A Year On Airbnb w/ Scott Shatford
+title: Episode 9 - (Domestic Edition) Passively Earn 60K A Year On Airbnb w/ Scott Shatford
 bigimg: /EpisodeBanners/HolidayHouse.jpg
 subtitle: Airbnb Legend Scott Shatford comes on to blow our minds on building a domestic Airbnb empire
 comments: true
