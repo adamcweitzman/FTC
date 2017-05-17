@@ -1,10 +1,12 @@
 ---
 layout: post
-title: Episode 8 - Passively Earn 60K A Year On Airbnb w/ Jasper Ribbers aka The Flying Dutchman
+title: Episode 8 - (International Edition) Passively Earn 60K A Year On Airbnb w/ Jasper Ribbers aka The Flying Dutchman
 bigimg: /EpisodeBanners/Brick.jpg
 subtitle: Airbnb crusher Jasper Ribbers discusses hatred of office life and how he escaped with vacation rentals
 comments: true
 categories: realestate
+tags: [classic, personalfinance, sidehustle]
+blog: false
 ---
 
 ### Summary

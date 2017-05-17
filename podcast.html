@@ -6,6 +6,7 @@ title: Podcast
 
 <div class="posts-list">
   {% for post in site.posts %}
+    {% if post.blog == false %}
   <article class="post-preview">
     <a href="{{ post.url | prepend: site.baseurl }}">
 	  <h2 class="post-title">{{ post.title }}</h2>
@@ -52,6 +53,7 @@ title: Podcast
     {% endif %}
 
    </article>
+   {% endif %}
   {% endfor %}
 </div>
 

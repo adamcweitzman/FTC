@@ -6,6 +6,7 @@ subtitle: Forbes contributor and Make Lemonade founder Zack Friedman comes on to
 comments: true
 categories: personalfinance
 tags: [classic, personalfinance]
+blog: false
 ---
 <iframe style="border: none" src="//html5-player.libsyn.com/embed/episode/id/5251517/height/90/width/640/theme/custom/autonext/no/thumbnail/yes/autoplay/no/preload/no/no_addthis/no/direction/backward/render-playlist/no/custom-color/87A93A/" height="90" width="640" scrolling="no"  allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
 

@@ -6,6 +6,7 @@ subtitle: We discuss the beauty of the automated profit machine that is Amazon F
 comments: true
 categories: amazonfba
 tags: [classic, personalfinance, sidehustle]
+blog: false
 ---
 
 ### Summary

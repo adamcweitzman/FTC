@@ -44,7 +44,7 @@ layout: base
         </div>
       {% endif %} -->
 
-
+      
 
       <ul class="pager blog-pager">
         {% if page.previous.url %}
@@ -92,7 +92,10 @@ layout: base
         <div id="emptyCol" class="col-sm-3">
         row
         </div>
-        {% include sidebar.html%}
+
+        {% if page.blog == false %}
+          {% include sidebar.html%}
+        {% endif %}
       </div>
   </div>
 </div>
