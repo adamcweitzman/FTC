@@ -2,7 +2,7 @@
 layout: post
 title: For the Love of God Invest in Real Estate!!
 bigimg: /EpisodeBanners/architecture-1836070_1920.jpg
-subtitle: Is it too dangerous? Can I really make more money than investing in stocks? What if there is another downturn? But debt is bad!!
+subtitle: How much will I make versus investing in stocks? What is the oppurtunity cost by not using this method?
 comments: true
 categories: realestate
 blog: true
@@ -62,11 +62,13 @@ Well my friends that will be covered in another blog post but for now let me dir
 STOCKS: Invested $18,400 in stocks and sold after 5 years, made a 7% annual return. 
 
 With compound interest your total in 5 years = $25,807
+
 gross profit = $25,807 - $18,400 = $7,407
 
 REAL ESTATE: Invested $18,400 in a house and sold after 5 years, using my actuall conservative assumptions for expenses, insurance, taxes, vacancy, prop management, and appreciation:
 
 Total after selling = $45,850 
+
 gross profit = $45,850 - $18,400 = $27,450
 
 ## $7,047 Versus $27,450, you be the judge. 
@@ -78,11 +80,13 @@ Yes, Yes, Yes, there are many different factors that go into both this is an ove
 I reinvest the $25,807 I made back into stocks for another five years. 
 
 Total income = $36,196
+
 gross profit = $36,196 - $18,400 = $17,796 Sad Panda! 
 
 I reinvest my $45,850 into real estate and put 20% down on a $220,925 home like a boss! Using the same rations for my previous property:
 
 Total income = $114,166 income
+
 Final gross profit = $114,166 - $18,400 = $95,766
 
 ARE YOU NOT ENTERTAINED!!! - Maximus in Gladiator
