@@ -22,11 +22,11 @@ So why did I do it and also convince my girlfriend to do it as well?
 
 Lets start at the top....
 
-Unless you are a business / psychological prodigy that spends 90 hours a week consuming financial news with the latest softwate AKA Warren Buffet. Investing in individual stoacks will [lose you money](http://www.mrmoneymustache.com/2014/11/04/why-i-put-my-last-100000-into-betterment/)!
+Unless you are a business / psychological prodigy that spends 90 hours a week consuming financial news with the latest softwate AKA Warren Buffet. Investing in individual stocks will [lose you money](http://www.mrmoneymustache.com/2014/11/04/why-i-put-my-last-100000-into-betterment/)!
 
 ## But Mutual Funds?
 
-Yes, mutual funds are great and have their place in anyones portfolio. With the rise of the robo-adviser - [Betterment](https://www.betterment.com/) Or [Wealthfront](https://www.wealthfront.com/?gclid=CJ-j8rim9NMCFQctaQod6qoJYA) it has never been easier to invest your money effectively with no effort. 
+Yes, mutual funds are great and have their place in anyones portfolio. With the rise of the robo-adviser - [Betterment](https://www.betterment.com/) or [Wealthfront](https://www.wealthfront.com/?gclid=CJ-j8rim9NMCFQctaQod6qoJYA) it has never been easier to invest your money effectively with no effort. 
 
 But guess what.... You will average a 7% return. 
 
