@@ -7,8 +7,8 @@ subtitle:
 <center><h1>Get In Touch With Daddy</h1></center>
 
 <div id="freeStarbucks" class="text-center">
-    <a href="https://docs.google.com/a/fightthecube.com/forms/d/14JpaAAKte-1_7m8JXf6NN7Swwi-OtNpjzGzQLUNiN8E/prefill" class="btn btn-large btn-lg" id="getStartedBtn">
-        <i class="fa fa-space-shuttle aria-hidden=true"></i> Contact Us!
+    <a href="https://docs.google.com/forms/d/e/1FAIpQLScoFEH6WXyjN8Adwvf_neSqiU5KTKfxZPos1X61xuIlO0bucw/viewform?usp=sf_link" class="btn btn-large btn-lg" id="getStartedBtn">
+        <i class="fa aria-hidden=true"></i> Contact Us!
     </a>
 <!--   <button type="button" class="btn btn-primary text-center">Free Starbucks</button> -->
 </div>
