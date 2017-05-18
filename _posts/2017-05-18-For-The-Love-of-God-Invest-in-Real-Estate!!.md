@@ -1,7 +1,7 @@
 ---
 layout: post
 title: For the Love of God Invest in Real Estate!!
-bigimg: /EpisodeBanners/architecture-1836070_1920.jpg
+bigimg: /EpisodeBanners/RealEstateImage.jpg
 subtitle: How much will I make versus investing in stocks? What is the oppurtunity cost by not using this method?
 comments: true
 categories: realestate
@@ -91,9 +91,13 @@ Final gross profit = $114,166 - $18,400 = $95,766
 
 ARE YOU NOT ENTERTAINED!!! - Maximus in Gladiator
 
-## $95,766 versus $17,796
+## $95,766 Real Estate vs $17,796 Roboadviser
 
-You be the judge
+You be the judge, Real Estate is king when it comes to investing against mutual fund returns. And you can start quickly with a Roofstock sight unseen property, [Airbnb Vacation Home](/2017-05-07-Passively-Earn-60K-A-Year-With-Airbnb/), and even a duplex single family home where you can qualify to put little money down with an FHA.
+
+Go do it!
+
+<br><br>
 
 
 
