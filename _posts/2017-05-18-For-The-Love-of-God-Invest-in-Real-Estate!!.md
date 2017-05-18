@@ -8,7 +8,7 @@ categories: realestate
 blog: true
 ---
 
-<h1>Why Real Estate? Answers to the 4 most common objections</h1>
+<h1>Why Real Estate? Show me the money Jerry!</h1>
 
 Your crazy!! I would never do that!! Don't you know that there is going to be a market crash now just like 2007, I saw it on the news last night! But you know, I dont want to get into that much debt, I am trying to pay it all off after all! 
 
